@@ -2,10 +2,10 @@ import React from "react";
 
 function Header(){
 return(
-    <header>
+    <header className="bg-secondary text-center">
         <nav className="navbar navbar-light bg-light">
   <span className="navbar-text">
-  Leon's Bar-HR-System
+ Staff Directory
   </span>
 </nav>
     </header>

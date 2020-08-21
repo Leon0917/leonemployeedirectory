@@ -7,7 +7,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    <h1>Leon's Bar-HR-System</h1>
+    <h1 className="bg-secondary">Leon's Bar-HR-System</h1>
     <Header></Header>
     <Employee></Employee>
     <Footer></Footer>
